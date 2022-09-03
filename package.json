@@ -2,7 +2,7 @@
   "name": "buscador-imagenes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https:// waltergarcia.github.io/buscador-imagenes",
+  "homepage": "https://waltergarcia.github.io/buscador-imagenes",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
